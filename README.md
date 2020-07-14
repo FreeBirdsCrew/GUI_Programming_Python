@@ -3,7 +3,7 @@ Python GUI Programming with Electron JS and NODE JS that helps you to create Int
 
 Hey Guys!! Want to Learn about Python GUI? So the Solution is Here.
 
-![Screenshot](python.png)
+![Screenshot](Python.png)
 
 We Explain about these Topics in Our Tutorial Visit - Youtube -https://www.youtube.com/channel/UC4RZP6hNT5gMlWCm0NDzUWg?view_as=subscriber?sub_confirmation=1
 1. What is GUI Programming
